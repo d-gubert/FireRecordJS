@@ -9,3 +9,7 @@ An Active Record library for Firebase Firestore JS SDK
 * [ ] Promise based
 * [ ] Firebase should be a peer dependency
 * [ ] Query builder (on top of Firestore's)
+
+## License
+
+FireRecord is available under the MIT license. See the LICENSE file for more info.
